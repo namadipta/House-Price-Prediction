@@ -4,7 +4,7 @@
             
         The main objective is of this assignment to build a regression model using regularisation in order to predict the actual value of the prospective properties and decide whether to invest in them or not.
 
-      Also provide the company with below details:
+        Also provide the company with below details:
             1. Which variables are significant in predicting the price of a house, and
             2. How well those variables describe the price of a house.
             
